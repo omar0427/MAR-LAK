@@ -1,6 +1,6 @@
 /*************************************************************************
-** Author      : OMAR H
-** Program     : HOMEWORK 2
+** CODER      : OMAR H
+** Program Name    : HOMEWORK 2
 ** Date Created: February 20, 2025
 ** Date Last Modified : February 21, 2025
 ** Usage       : No command line arguments
